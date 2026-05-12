@@ -1,0 +1,9 @@
+2026-04-06 16:35:19,402 - INFO - Addition | Inputs: 2.0, 3.0 | Result: 5.0
+2026-04-06 16:43:04,956 - INFO - Subtraction | Inputs: 5.0, 3.0 | Result: 2.0
+2026-04-06 16:43:19,126 - INFO - Multiplication | Inputs: 3.0, 2.0 | Result: 6.0
+2026-04-06 16:43:31,774 - INFO - Division | Inputs: 4.0, 2.0 | Result: 2.0
+2026-04-06 16:46:58,839 - INFO - Division | Inputs: -2.0, -1.0 | Result: 2.0
+2026-04-06 16:47:08,521 - INFO - Division | Inputs: 0.0, 2.0 | Result: 0.0
+2026-04-06 16:47:15,963 - ERROR - Division by zero attempted
+2026-04-06 16:48:34,574 - ERROR - ValueError: Non-numeric input provided
+2026-04-06 16:48:49,984 - ERROR - Invalid menu choice entered
